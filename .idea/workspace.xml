@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fbb4367-c971-4ea1-9efc-c57a441c4627" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/entity/Incidente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/entity/Incidente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/ClasePersistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/ClasePersistencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/CrudRepositorie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/CrudRepositorie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/IncidenteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/IncidenteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/ReporteCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/ReporteCrud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/TecnicoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/TecnicoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/entity/Incidente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/entity/Incidente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/repository/ClasePersistencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/repository/ClasePersistencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/ClienteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/IncidenteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/IncidenteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ReporteCrud.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/ReporteCrud.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/TecnicoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/TecnicoService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tax2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2YmzVnBbsKefsAki7DB5O2IQqy8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "tax3",
+    "last_opened_file_path": "C:/Users/Owner/Desktop/UTN/UTNFInal/tpiAP"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pruebasOtrasCosas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.app.pruebasOtrasCosas" />
+      <module name="TrabInteAP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pruebasOtrasCosas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fbb4367-c971-4ea1-9efc-c57a441c4627" name="Changes" comment="" />
+      <created>1701145572628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701145572628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="tax2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
