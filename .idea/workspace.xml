@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fbb4367-c971-4ea1-9efc-c57a441c4627" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/entity/Incidente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/entity/Incidente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/ClasePersistencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/ClasePersistencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/CrudRepositorie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/CrudRepositorie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/repository/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/repository/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/ClienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/IncidenteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/IncidenteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/ReporteCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/ReporteCrud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/TecnicoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/service/TecnicoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/entity/Incidente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/entity/Incidente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/repository/ClasePersistencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/repository/ClasePersistencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/ClienteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/IncidenteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/IncidenteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ReporteCrud.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/ReporteCrud.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/TecnicoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/service/TecnicoService.class" afterDir="false" />
-    </list>
+    <list default="true" id="4fbb4367-c971-4ea1-9efc-c57a441c4627" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +26,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2YmzVnBbsKefsAki7DB5O2IQqy8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,8 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "tax3",
-    "last_opened_file_path": "C:/Users/Owner/Desktop/UTN/UTNFInal/tpiAP"
+    "git-widget-placeholder": "diego__2",
+    "last_opened_file_path": "C:/Users/ARcade/Desktop/UTN-Java - Intermedio/java_intermedio_integrador"
   }
 }]]></component>
   <component name="RecentsManager">
